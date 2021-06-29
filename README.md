@@ -10,17 +10,10 @@ ABOUT BOT
 ### YOU WANT TO DEPLOY A BOT FOR YOU CLICK THE BUTTON GIVEN BELOW.....  
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JOHNWICK049/John-File-Rename-Bot)
-
-YOU GUYS FOUND ANY BUGS REPORT US AT [DEVOLEPED BOTS SUPPORT](https://t.me/DevelopedBotz) 
-AND UPDATES AT [DEVOLEPED BOTS CHANNEL](https://t.me/DevelopedBotz) 
-
-
-### BOT CAN BE SEEN ON TELEGRAM AS
-
-[@MrFilesRenamer_Bot](https://t.me/MrFilesRenamer_Bot) 
+ 
 
 ### BOTS ARE MAINTAINED BY
       
-    [KUNAL DIWAN](https://t.me/Kunaldiwan)     
+    [I ❤ MOVIES]    
 
 
